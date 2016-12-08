@@ -1,0 +1,23 @@
+# gitgnore for JTS Project form Algorithms Module
+# binaries
+build/
+# dist folder
+/dist/
+# private section of netbeans
+nbproject/private/
+# shell script -> system dependent
+
+#html solutions
+*.html
+
+#gnuplots
+*.eps
+
+#csv files
+*.csv
+
+# ods lock
+.~lock*
+
+# swap files
+*.swp
